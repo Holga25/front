@@ -1,0 +1,48 @@
+html {
+    width: 100%;
+}
+
+body {
+    min-height: 100vh;
+    font-family: Outfit, sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+body .container {
+    background-color: hsl(0, 0%, 100%);
+    width: 90%;
+    max-width: 250px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+body .qr-code {
+    text-align: center;
+}
+
+body .qr-code img {
+    border-radius: 10px;
+    width: 100%;
+}
+body .text-body {
+
+}
+
+body .text-body h1 {
+    font-size: 20px;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+}
+
+body .text-body p {
+    font-weight: 400;
+    color: hsl(216, 15%, 48%);
+    font-size: 15px;
+    text-align: center;
+}
