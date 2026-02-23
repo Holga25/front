@@ -1,7 +1,7 @@
 # Проекты для изучения HTML, CSS
 
 ## Первый проект
-==== QR код (https://holga25.github.io/front/index.html) ====
+==== [QR код](https://holga25.github.io/front/index.html) ====
 - вспомнила, как что работает в html, css (прям самые азы)
 
 Дополнительно:
